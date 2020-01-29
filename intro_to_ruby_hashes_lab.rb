@@ -25,7 +25,10 @@ def monopoly_with_third_tier
     four_piece_owned:"four"
       
     },
-    names:Hash.new
+    names:{railroad_one:"one",
+    railroad_two:"two",
+    railroad_three:"three",
+    railroad_four:"four"}
   }
   }
   
