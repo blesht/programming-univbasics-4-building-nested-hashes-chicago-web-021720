@@ -1,5 +1,5 @@
 def base_hash
-  monopoly = {}
+  monopoly = {railroad:"first"}
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
 	{}
