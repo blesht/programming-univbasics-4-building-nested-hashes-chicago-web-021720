@@ -24,7 +24,8 @@ def monopoly_with_third_tier
     three_piece_owned:"three",
     four_piece_owned:"four"
       
-    }
+    },
+    names:Hash.new
   }
   }
   
