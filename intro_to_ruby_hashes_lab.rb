@@ -26,7 +26,7 @@ def monopoly_with_third_tier
       
     },
     names:{reading_railroad:Hash.new,
-    railroad_two:"two",
+    Pennsylvania_railroad:Hash.new,
     railroad_three:"three",
     railroad_four:"four"}
   }
