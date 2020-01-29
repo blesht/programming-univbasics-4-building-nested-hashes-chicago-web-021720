@@ -15,7 +15,11 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-  monopoly = {railroads:{pieces:4,rent_in_dollars:{one_piece_owned:"one",two_piece_owned:"two",three_piece_owned:"three",four_piece_owned:"four"},{names:"johnny"}}
+  monopoly = {
+    railroads:
+    {pieces:4,rent_in_dollars:{one_piece_owned:"one",two_piece_owned:"two",three_piece_owned:"three",four_piece_owned:"four"}
+  }
+  }
   
   
   
